@@ -20,7 +20,7 @@ while True:
       print("Please write a number between 1-3 to choose your weapon.")
       
   
-  #computer wins outcomes
+  ##computer wins outcomes
   if int(user_choice) == 1 and computer_choice == alternatives[1]:
     print ("The computer wins...")
     print ("The computers choice of rock beats your scissors")
